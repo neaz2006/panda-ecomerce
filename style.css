@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.banner{
+ background-color: #fceae8;   
+ border-radius: 10px;
+}
+.item-area img{
+    width: 100px;
+}
+.item1,
+.item2,
+.item3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.subscribe{
+   height: 300px;
+   background-color: #fceae8; 
+   border-radius: 10px;
+
+}
